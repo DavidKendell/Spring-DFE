@@ -9,6 +9,6 @@ This project is a Spring Boot application of a trading card game based on the an
 ![alt text](https://imgur.com/MzKcxfc.png)
 deleted a character. See 204 no content
 
-![alt text](https://imgur.com/5BJ7xtf)
+![alt text](https://imgur.com/5BJ7xtf.png)
 
 the deleted character no longer shows
